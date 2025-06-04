@@ -3,6 +3,8 @@ This inexpensive android based photo frame makes a simple Home Assistant dashboa
 
 **This process does make changes to the installed operating system, do this at your own risk, it worked for me, doesn't mean it will work for you. Part of the steps involved has risk of bricking your device, proceed with caution and at your own risk!**
 
+![Dashboard](img/arzopa.png)
+
 [Amazon Link (no affiliate link)](https://www.amazon.com/ARZOPA-Electronic-Mountable-Auto-Rotate-Instantly/dp/B0C13618CH/ref=sr_1_3?crid=2N8Y2PHLQ0M77&dib=eyJ2IjoiMSJ9.L-LGQ6w20uc0Rb1EqoON3voDnSDB_PJgweHgMgaR-p8gZtW5VX7TljL2HBJfKX1bBN2-8P43qoSe3qw7bV541dfIMOJDCckbn1yiKHrYqrrtH60LmGv1fNHgHJ-GHXV_Naze7xybrYcLu12E-Utm-VPqG-4Lldv31-s9MP5MGx3RZJfoRpLvoIo55I2LUO0i_II_yNfZXDBKWX8Al4HV14Sy-i3Ym7dt7fbu-d13tP8.1m78X9TL1H7qosZr2urRM7LNe9138DNs_Ot3HVMarAc&dib_tag=se&keywords=arzopa%2b15%22%2bphoto%2bframe&qid=1749048895&sprefix=arzopa%2b15%2bphoto%2bfra,aps,168&sr=8-3&th=1)
 
 Specs
