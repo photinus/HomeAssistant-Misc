@@ -63,3 +63,7 @@ $ reboot
 ```
 
 Now assuming everything went smoothly, you should be greeted to a pretty simple generic launcher, you can swipe up from the right side of the screen and select Fully Kiosk. In advanced settings you can change your System Web View to use Bromite as the included webview version if woefully out of date and doesn't allow for updates even when manually installed.
+
+Useful Tip:
+When working in Fully Kiosk, there is no on-screen or physical back button, You can use ADB to send the back button:
+adb shell input keyevent KEYCODE_BACK
